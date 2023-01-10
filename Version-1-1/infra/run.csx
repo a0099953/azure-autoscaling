@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Microsoft.Azure.ServiceBus;
 using Microsoft.ApplicationInsights;
 using Microsoft.ApplicationInsights.DataContracts;
-using Microsoft.Azure.Amqp.resources
+using Microsoft.Azure.Amqp.resources;
 
 
 public class PanMessage<T>
